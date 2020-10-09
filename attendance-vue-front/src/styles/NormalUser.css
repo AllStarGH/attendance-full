@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+#el_aside_0 {
+  background-color: rgb(238, 241, 246);
+}
+
+#el_contain_0 {
+  height: 1800px;
+  border: 1px solid #eee;
+}
+
+#header_0 {
+  text-align: right;
+  font-size: 18px;
+}
+
+#i_setting {
+  margin-right: 15px;
+}
+
+
