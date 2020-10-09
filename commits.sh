@@ -1,11 +1,15 @@
 #git init
 
 #origin:远端仓库的名字
-#git remote add origin https://github.com/AllStarGH/attendance.git
+#git remote add origin https://github.com/AllStarGH/attendance-full.git
 
 git status
 
-git add .  
+# 表示添加所有内容
+git add -A
+
+# 表示添加所有 改变过 的内容
+#git add .
 
 git commit -m "revamps the README"
 
